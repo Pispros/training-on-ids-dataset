@@ -1,0 +1,17 @@
+label-studio
+
+# Ignore everything in the directory
+Datasets/CIC-IDS2017/*
+Datasets/CIC-IDS2018/*
+
+# Don't ignore .md files
+!Datasets/CIC-IDS2017/*.md
+!Datasets/CIC-IDS2017/*.py
+!Datasets/CIC-IDS2018/*.md
+!Datasets/CIC-IDS2018/*.py
+
+Datasets/CIC-IDS2017/converted_to_CICIDS2018
+
+Datasets/CIC-IDS2017.reformed
+
+Datasets/CIC-IDS2018.reformed
