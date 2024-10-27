@@ -2,7 +2,7 @@
 
 - Url link : https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv
 
-# You shoud a tree like : 
+# You should have a tree like : 
 - Datasets/
   - CIC-IDS2018/
     - 02-14-2018.csv
