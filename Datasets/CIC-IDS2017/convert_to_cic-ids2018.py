@@ -121,7 +121,7 @@ def convertFile(filePath, convertedDirPath):
         if col == 'Protocol':
             df_2017[col] = 6  # Par exemple, 6 pour TCP
         elif col == 'Timestamp':
-            df_2017[col] = pd.Timestamp.now()
+            df_2017[col] = None
         elif col == 'Src IP':
             df_2017[col] = '0.0.0.0'
         elif col == 'Dst IP':
