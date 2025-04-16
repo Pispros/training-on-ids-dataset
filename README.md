@@ -147,6 +147,6 @@ Si vous utilisez ce code ou ces résultats dans vos recherches, veuillez citer:
   title = {Détection d'Intrusions Réseau par Apprentissage Automatique},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/pispros/detection-intrusion-ml}
+  url = {https://github.com/Pispros/ids-fine-tuning-training.git}
 }
 ```
