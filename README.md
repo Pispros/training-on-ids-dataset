@@ -95,7 +95,7 @@ Pour chaque dataset, nous avons appliqué trois phases d'expérimentation:
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/votre-nom/detection-intrusion-ml.git
+git clone https://github.com/votre-nom/detection-intrusion-ml.git](https://github.com/Pispros/ids-fine-tuning-training
 cd detection-intrusion-ml
 
 # Installer les dépendances
@@ -109,9 +109,9 @@ jupyter notebook notebooks/
 
 Les notebooks Colab contiennent l'implémentation complète et les résultats des expériences:
 
-- [KDD CUP Notebook](lien-vers-votre-colab-kdd)
-- [UNSW-NB15 Notebook](lien-vers-votre-colab-unsw)
-- [CICIDS2018 Notebook](lien-vers-votre-colab-cicids)
+- [KDD CUP Notebook](https://colab.research.google.com/drive/1JvMTkVgEu2awt2IBXOWV9z33LMN15Z43?usp=sharing)
+- [UNSW-NB15 Notebook](https://colab.research.google.com/drive/1-5vDR73L9d_qvdWXx4qCxcQudkIcWSWY?usp=sharing)
+- [CICIDS2018 Notebook](https://colab.research.google.com/drive/1mz_lpUrGve69-umgS82PYYAJ0nY7gpWo?usp=sharing)
 
 ## 📈 Résultats principaux
 
@@ -143,14 +143,10 @@ Si vous utilisez ce code ou ces résultats dans vos recherches, veuillez citer:
 
 ```
 @misc{detection-intrusion-ml,
-  author = {Votre Nom},
+  author = {Prosper Pissan},
   title = {Détection d'Intrusions Réseau par Apprentissage Automatique},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/votre-nom/detection-intrusion-ml}
+  url = {https://github.com/pispros/detection-intrusion-ml}
 }
 ```
-
-## 📝 Licence
-
-Ce projet est sous licence [insérer votre licence, par exemple MIT].
