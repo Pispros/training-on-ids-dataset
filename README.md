@@ -128,7 +128,7 @@ Les notebooks Colab contiennent l'implémentation complète et les résultats de
 - Analyse des résultats de prévision de séries temporelles
 
 ### Lien Drive vers les résultats
-- [Résultats <img src="https://ssl.gstatic.com/docs/doclist/images/drive_2022q3_32dp.png" width="16" height="16" />](https://drive.google.com/drive/folders/17WC3Tv17FralhxkWiMLdcqUzndMXmB4k?usp=sharing)
+- <img src="https://ssl.gstatic.com/docs/doclist/images/drive_2022q3_32dp.png" width="16" height="16" /> [Lien Google Drive](https://drive.google.com/drive/folders/17WC3Tv17FralhxkWiMLdcqUzndMXmB4k?usp=sharing)
 
 ## 🔧 Technologies utilisées
 
