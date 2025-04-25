@@ -95,7 +95,7 @@ Pour chaque dataset, nous avons appliqué trois phases d'expérimentation:
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/Pispros/ids-fine-tuning-training.git
+git clone https://github.com/Pispros/training-on-ids-dataset
 cd detection-intrusion-ml
 
 # Installer les dépendances
