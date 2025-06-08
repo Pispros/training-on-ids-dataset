@@ -96,7 +96,7 @@ Pour chaque dataset, nous avons appliqué trois phases d'expérimentation:
 ```bash
 # Cloner le dépôt
 git clone https://github.com/Pispros/training-on-ids-dataset
-cd detection-intrusion-ml
+cd training-on-ids-dataset
 
 # Installer les dépendances
 pip install -r requirements.txt
